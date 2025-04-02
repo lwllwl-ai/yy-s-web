@@ -1,0 +1,10 @@
+<template>
+    <div>
+        自觉支付
+    </div>
+    <div>
+        <p>是否支付完成</p>
+        <el-button>是的</el-button>
+        <el-button>取消</el-button>
+    </div>
+</template>
